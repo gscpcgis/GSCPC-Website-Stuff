@@ -34,9 +34,12 @@
 * Font: Open Sans
 
 ##Images
+
 ###Small Square
 * Thumbnail size
+
 ###Medium Square
 * Good 4 across
 * 280 x 280
+
 ###Big Square
