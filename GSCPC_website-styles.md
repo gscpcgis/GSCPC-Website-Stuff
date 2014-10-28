@@ -5,6 +5,7 @@
 ####Blues
 - <span style="color:#2980b9">**Belize Hole #2980b9**</span>
 - <span style="color:#3498db">**Peter River #3498db**</span>
+- <span style="color:#60AADB">**Lightest Blue #60AADB**</span>
 ####Grays
 - <span style="color:#2c3e50">**Midnight Blue #2c3e50**</span>
 - <span style="color:#34495e">**Wet Asphalt #34495e**</span>

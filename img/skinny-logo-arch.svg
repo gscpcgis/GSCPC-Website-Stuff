@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="skinny-logo.svg"
+   sodipodi:docname="skinny-logo-arch.svg"
    inkscape:export-filename="C:\Users\Ryan Cooper\Documents\GitHub\GSCPC-Website-Stuff\img\skinny-logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-70.714286"
-     inkscape:cy="520"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-63.481314"
+     inkscape:cy="-52.400534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,10 +61,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3781"
+       width="980"
+       height="256"
+       x="0"
+       y="1.7142857" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -126,7 +140,7 @@
     <g
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="text3782"
-       transform="matrix(1.9282073,0,0,1.9282073,-757.2167,-937.39269)">
+       transform="matrix(1.9282073,0,0,1.9282073,-1214.8158,-937.39227)">
       <path
          d="m 713.30359,1009.5051 -3.55469,-9.082 -11.44531,0 -3.51563,9.082 -3.35937,0 11.28906,-28.67185 2.79297,0 11.23047,28.67185 z m -4.58984,-12.07029 -3.32032,-8.84765 c -0.4297,-1.11977 -0.87241,-2.49347 -1.32812,-4.1211 -0.28647,1.25003 -0.69663,2.62372 -1.23047,4.1211 l -3.35938,8.84765 z"
          id="path3787"
