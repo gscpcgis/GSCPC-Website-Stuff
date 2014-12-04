@@ -36,7 +36,7 @@
 
 ####Purples
 
-- <span style="color:#693380>**Darker wisteria #693380**</span>
+- <span style="color:#693380">**Darker wisteria #693380**</span>
 - <span style="color:#8e44ad">**Wisteria #8e44ad**</span>
 - <span style="color:#9b59b6">**Amethyst #9b59b6**</span>
 - <span style="color: #A06BB5">**Lighter Purple #A06BB5**</span>
