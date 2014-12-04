@@ -5,7 +5,7 @@
 ###Flat UI Colors
 
 ####Blues
-
+- <span style="color:#1E5D87">**Deeper Blue #1E5D87**</span>
 - <span style="color:#2980b9">**Belize Hole #2980b9**</span>
 - <span style="color:#3498db">**Peter River #3498db**</span>
 - <span style="color:#60AADB">**Lightest Blue #60AADB**</span>
@@ -20,7 +20,7 @@
 - <span style="color:#ecf0f1">**Clouds #ecf0f1**</span>
 - 
 ####Greens
-
+- <span style="color:#078C72">**Deep Green sea #078C72**</span>
 - <span style="color:#16a085">**Green Sea #16a085**</span>
 - <span style="color:#1abc9c">**Turquoise #1abc9c**</span>
 - <span style="color:#27ae60">**Nephritis #27ae60**</span>
@@ -33,15 +33,17 @@
 - <span style="color:#e67e22">**Carrot #e67e22**</span>
 - 
 ####Purples
-
+- <span style="color:#693380>**Darker wisteria #693380**</span>
 - <span style="color:#8e44ad">**Wisteria #8e44ad**</span>
 - <span style="color:#9b59b6">**Amethyst #9b59b6**</span>
-- 
+- <span style="color: #A06BB5">**Lighter Purple #A06BB5**</span>
+ 
 ####Reds
-
+- <span style="color:#A63629">**deeper pomegranate #A63629**</span>
 - <span style="color:#c0392b">**Pomegranate #c0392b**</span>
 - <span style="color:#e74c3c">**Alizarin #e74c3c**</span>
-- 
+- <span style="color:#E87568">**lighter Alizarin #E87568**</span>
+
 ####Yellows
 
 - <span style="color:#f39c12">**Orange #f39c12**</span>
