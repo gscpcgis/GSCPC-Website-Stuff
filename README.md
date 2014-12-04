@@ -25,6 +25,7 @@
 - <span style="color:#078C72">**Deep Green sea #078C72**</span>
 - <span style="color:#16a085">**Green Sea #16a085**</span>
 - <span style="color:#1abc9c">**Turquoise #1abc9c**</span>
+- <span style="color:#69D1BC:>**light turquoise #69D1BC**</span>
 - <span style="color:#27ae60">**Nephritis #27ae60**</span>
 - <span style="color:#2ecc71">**Emerald #2ecc71**</span>
 - <span style="color:#6CCC94">**Wash Out Green**</span>
