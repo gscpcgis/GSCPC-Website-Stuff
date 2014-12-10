@@ -15,6 +15,7 @@
 
 - <span style="color:#2c3e50">**Midnight Blue #2c3e50**</span>
 - <span style="color:#34495e">**Wet Asphalt #34495e**</span>
+- <span style="color:#375472">**light wet asphalt #375472**</span>
 - <span style="color:#7f8c8d">**Asbestos #7f8c8d**</span>
 - <span style="color:#95a5a6">**Concrete #95a5a6**</span>
 - <span style="color:#bdc3c7">**Silver #bdc3c7**</span>
