@@ -54,6 +54,12 @@
 - <span style="color:#f39c12">**Orange #f39c12**</span>
 - <span style="color:#f1c40f">**Sun Flower #f1c40f**</span>
 
+###Departmental Colors
+
+- Planning: Pomegranite-Midnight Blue
+- Engineering: Green Sea-Wisteria
+- GIS: Pumpkin-Belize Hole
+
 ##Fonts
 
 ###Headers
